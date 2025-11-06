@@ -13,9 +13,8 @@
       "verdura"
     ],
     "Giovedì": [
-      "180 carne bianca",
-      "verdura",
-      "pane"
+      "80g pasta con verdure",
+      "verdura"
     ],
     "Venerdì": [
       "80g pasta con verdure",
@@ -27,8 +26,9 @@
       "pane"
     ],
     "Domenica": [
-      "80g pasta con verdure",
-      "verdura"
+      "180 carne bianca",
+      "verdura",
+      "pane"
     ]
   },
   "Cena": {
@@ -48,7 +48,9 @@
       "pane"
     ],
     "Giovedì": [
-      "LIBERO"
+      "2 uova",
+      "verdura",
+      "pane"
     ],
     "Venerdì": [
       "150g carne rossa",
@@ -61,9 +63,7 @@
       "pane"
     ],
     "Domenica": [
-      "2 uova",
-      "verdura",
-      "pane"
+      "LIBERO"
     ]
   },
   "Colazione": {
