@@ -1,22 +1,138 @@
 {
-  "Pranzo": {
-    "Lunedì": [],
-    "Martedì": [
-      "aa"
+  "Colazione": {
+    "Lunedì": [
+      "caffè"
     ],
-    "Mercoledì": [],
-    "Giovedì": [],
-    "Venerdì": [],
-    "Sabato": [],
-    "Domenica": []
+    "Martedì": [
+      "caffè"
+    ],
+    "Mercoledì": [
+      "caffè"
+    ],
+    "Giovedì": [
+      "caffè"
+    ],
+    "Venerdì": [
+      "caffè"
+    ],
+    "Sabato": [
+      "caffè"
+    ],
+    "Domenica": [
+      "caffè"
+    ]
+  },
+  "Spuntino AM": {
+    "Lunedì": [
+      "frutto"
+    ],
+    "Martedì": [
+      "frutto"
+    ],
+    "Mercoledì": [
+      "frutto"
+    ],
+    "Giovedì": [
+      "frutto"
+    ],
+    "Venerdì": [
+      "frutto"
+    ],
+    "Sabato": [
+      "frutto"
+    ],
+    "Domenica": [
+      "frutto"
+    ]
+  },
+  "Pranzo": {
+    "Lunedì": [
+      "80g pasta pomodoro",
+      "verdura"
+    ],
+    "Martedì": [
+      "80g pasta con verdure",
+      "verdura"
+    ],
+    "Mercoledì": [
+      "80g pasta con verdure",
+      "verdura"
+    ],
+    "Giovedì": [
+      "80g pasta pomodoro",
+      "verdura"
+    ],
+    "Venerdì": [
+      "80g riso con verdure",
+      "verdura"
+    ],
+    "Sabato": [
+      "180 carne bianca",
+      "verdura",
+      "pane"
+    ],
+    "Domenica": [
+      "180g pesce",
+      "verdura",
+      "pane"
+    ]
+  },
+  "Spuntino PM": {
+    "Lunedì": [
+      "frutto"
+    ],
+    "Martedì": [
+      "frutto"
+    ],
+    "Mercoledì": [
+      "frutto"
+    ],
+    "Giovedì": [
+      "frutto"
+    ],
+    "Venerdì": [
+      "frutto"
+    ],
+    "Sabato": [
+      "frutto"
+    ],
+    "Domenica": [
+      "frutto"
+    ]
   },
   "Cena": {
-    "Lunedì": [],
-    "Martedì": [],
-    "Mercoledì": [],
-    "Giovedì": [],
-    "Venerdì": [],
-    "Sabato": [],
-    "Domenica": []
+    "Lunedì": [
+      "minestrone",
+      "125g formaggio fresco",
+      "pane"
+    ],
+    "Martedì": [
+      "150g carne rossa",
+      "verdura",
+      "pane"
+    ],
+    "Mercoledì": [
+      "2 uova",
+      "verdura",
+      "pane"
+    ],
+    "Giovedì": [
+      "150g carne bianca",
+      "verdura",
+      "pane"
+    ],
+    "Venerdì": [
+      "minestrone",
+      "80g bresaola",
+      "pane"
+    ],
+    "Sabato": [
+      "LIBERO"
+    ],
+    "Domenica": [
+      "2 fette torta salata con verdure",
+      "verdura",
+      "pane"
+    ]
   }
 }
