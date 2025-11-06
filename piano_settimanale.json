@@ -1,103 +1,34 @@
 {
-  "Colazione": {
-    "Lunedì": [
-      "caffè"
-    ],
-    "Martedì": [
-      "caffè"
-    ],
-    "Mercoledì": [
-      "caffè"
-    ],
-    "Giovedì": [
-      "caffè"
-    ],
-    "Venerdì": [
-      "caffè"
-    ],
-    "Sabato": [
-      "caffè"
-    ],
-    "Domenica": [
-      "caffè"
-    ]
-  },
-  "Spuntino AM": {
-    "Lunedì": [
-      "frutto"
-    ],
-    "Martedì": [
-      "frutto"
-    ],
-    "Mercoledì": [
-      "frutto"
-    ],
-    "Giovedì": [
-      "frutto"
-    ],
-    "Venerdì": [
-      "frutto"
-    ],
-    "Sabato": [
-      "frutto"
-    ],
-    "Domenica": [
-      "frutto"
-    ]
-  },
   "Pranzo": {
     "Lunedì": [
       "80g pasta pomodoro",
       "verdura"
     ],
     "Martedì": [
-      "80g pasta con verdure",
-      "verdura"
-    ],
-    "Mercoledì": [
-      "80g pasta con verdure",
-      "verdura"
-    ],
-    "Giovedì": [
       "80g riso con verdure",
       "verdura"
     ],
-    "Venerdì": [
+    "Mercoledì": [
       "80g pasta pomodoro",
       "verdura"
     ],
-    "Sabato": [
-      "180 carne bianca",
-      "verdura",
-      "pane"
+    "Giovedì": [
+      "80g pasta con verdure",
+      "verdura"
     ],
-    "Domenica": [
+    "Venerdì": [
+      "80g pasta con verdure",
+      "verdura"
+    ],
+    "Sabato": [
       "180g pesce",
       "verdura",
       "pane"
-    ]
-  },
-  "Spuntino PM": {
-    "Lunedì": [
-      "frutto"
-    ],
-    "Martedì": [
-      "frutto"
-    ],
-    "Mercoledì": [
-      "frutto"
-    ],
-    "Giovedì": [
-      "frutto"
-    ],
-    "Venerdì": [
-      "frutto"
-    ],
-    "Sabato": [
-      "frutto"
     ],
     "Domenica": [
-      "frutto"
+      "180 carne bianca",
+      "verdura",
+      "pane"
     ]
   },
   "Cena": {
@@ -107,32 +38,59 @@
       "pane"
     ],
     "Martedì": [
-      "150g carne rossa",
-      "verdura",
-      "pane"
-    ],
-    "Mercoledì": [
-      "2 uova",
-      "verdura",
-      "pane"
-    ],
-    "Giovedì": [
       "minestrone",
       "80g bresaola",
       "pane"
     ],
-    "Venerdì": [
+    "Mercoledì": [
       "150g carne bianca",
       "verdura",
       "pane"
     ],
-    "Sabato": [
-      "LIBERO"
+    "Giovedì": [
+      "2 uova",
+      "verdura",
+      "pane"
     ],
-    "Domenica": [
+    "Venerdì": [
+      "150g carne rossa",
+      "verdura",
+      "pane"
+    ],
+    "Sabato": [
       "2 fette torta salata con verdure",
       "verdura",
       "pane"
+    ],
+    "Domenica": [
+      "LIBERO"
     ]
+  },
+  "Colazione": {
+    "Lunedì": [],
+    "Martedì": [],
+    "Mercoledì": [],
+    "Giovedì": [],
+    "Venerdì": [],
+    "Sabato": [],
+    "Domenica": []
+  },
+  "Spuntino AM": {
+    "Lunedì": [],
+    "Martedì": [],
+    "Mercoledì": [],
+    "Giovedì": [],
+    "Venerdì": [],
+    "Sabato": [],
+    "Domenica": []
+  },
+  "Spuntino PM": {
+    "Lunedì": [],
+    "Martedì": [],
+    "Mercoledì": [],
+    "Giovedì": [],
+    "Venerdì": [],
+    "Sabato": [],
+    "Domenica": []
   }
 }
