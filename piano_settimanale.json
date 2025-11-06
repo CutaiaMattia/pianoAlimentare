@@ -1,7 +1,9 @@
 {
   "Pranzo": {
     "Lunedì": [],
-    "Martedì": [],
+    "Martedì": [
+      "aa"
+    ],
     "Mercoledì": [],
     "Giovedì": [],
     "Venerdì": [],
