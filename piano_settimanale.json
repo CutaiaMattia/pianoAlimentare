@@ -22,13 +22,13 @@
       "verdura"
     ],
     "Sabato": [
+      "80g pasta pomodoro",
+      "verdura"
+    ],
+    "Domenica": [
       "180 carne bianca",
       "verdura",
       "pane"
-    ],
-    "Domenica": [
-      "80g pasta pomodoro",
-      "verdura"
     ]
   },
   "Cena": {
@@ -58,12 +58,12 @@
       "pane"
     ],
     "Sabato": [
-      "Libero"
-    ],
-    "Domenica": [
       "minestrone",
       "125g formaggio fresco",
       "pane"
+    ],
+    "Domenica": [
+      "Libero"
     ]
   },
   "Colazione": {
