@@ -5,13 +5,13 @@
       "verdura"
     ],
     "Martedì": [
+      "80g pasta pomodoro",
+      "verdura"
+    ],
+    "Mercoledì": [
       "180g pesce",
       "verdura",
       "pane"
-    ],
-    "Mercoledì": [
-      "80g pasta al pomodoro",
-      "Verdura"
     ],
     "Giovedì": [
       "80g riso con verdure",
@@ -22,8 +22,8 @@
       "verdura"
     ],
     "Sabato": [
-      "80g pasta pomodoro",
-      "verdura"
+      "80g pasta al pomodoro",
+      "Verdura"
     ],
     "Domenica": [
       "180 carne bianca",
@@ -38,12 +38,12 @@
       "pane"
     ],
     "Martedì": [
-      "2 fette torta salata con verdure",
-      "verdura",
+      "minestrone",
+      "125g formaggio fresco",
       "pane"
     ],
     "Mercoledì": [
-      "150g carne bianca",
+      "2 fette torta salata con verdure",
       "verdura",
       "pane"
     ],
@@ -58,8 +58,8 @@
       "pane"
     ],
     "Sabato": [
-      "minestrone",
-      "125g formaggio fresco",
+      "150g carne bianca",
+      "verdura",
       "pane"
     ],
     "Domenica": [
