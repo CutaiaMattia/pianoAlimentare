@@ -1,11 +1,11 @@
 {
   "Pranzo": {
     "Lunedì": [
-      "80g pasta con verdure",
+      "80g riso con verdure",
       "verdura"
     ],
     "Martedì": [
-      "80g pasta pomodoro",
+      "80g pasta con verdure",
       "verdura"
     ],
     "Mercoledì": [
@@ -14,7 +14,7 @@
       "pane"
     ],
     "Giovedì": [
-      "80g riso con verdure",
+      "80g pasta pomodoro",
       "verdura"
     ],
     "Venerdì": [
@@ -33,13 +33,13 @@
   },
   "Cena": {
     "Lunedì": [
-      "150g carne rossa",
-      "verdura",
+      "minestrone",
+      "80g bresaola",
       "pane"
     ],
     "Martedì": [
-      "minestrone",
-      "125g formaggio fresco",
+      "150g carne rossa",
+      "verdura",
       "pane"
     ],
     "Mercoledì": [
@@ -49,7 +49,7 @@
     ],
     "Giovedì": [
       "minestrone",
-      "80g bresaola",
+      "125g formaggio fresco",
       "pane"
     ],
     "Venerdì": [
