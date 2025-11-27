@@ -1,1 +1,44 @@
-"{\"Lunedì\":{\"SpuntinoAM\":\"s1\",\"Pranzo\":\"p2\",\"SpuntinoPM\":\"s3\",\"Cena\":\"c3\"},\"Martedì\":{\"SpuntinoAM\":\"s4\",\"Pranzo\":\"\",\"SpuntinoPM\":\"\",\"Cena\":\"c4\"},\"Mercoledì\":{\"SpuntinoAM\":\"s1\",\"Pranzo\":\"\",\"SpuntinoPM\":\"\",\"Cena\":\"\"},\"Giovedì\":{\"SpuntinoAM\":\"\",\"Pranzo\":\"p6\",\"SpuntinoPM\":\"\",\"Cena\":\"c11\"},\"Venerdì\":{\"SpuntinoAM\":\"\",\"Pranzo\":\"\",\"SpuntinoPM\":\"\",\"Cena\":\"\"},\"Sabato\":{\"SpuntinoAM\":\"\",\"Pranzo\":\"\",\"SpuntinoPM\":\"\",\"Cena\":\"\"},\"Domenica\":{\"SpuntinoAM\":\"\",\"Pranzo\":\"\",\"SpuntinoPM\":\"\",\"Cena\":\"\"}}"
+{
+  "Lunedì": {
+    "SpuntinoAM": "s1",
+    "Pranzo": "p2",
+    "SpuntinoPM": "s3",
+    "Cena": "c3"
+  },
+  "Martedì": {
+    "SpuntinoAM": "s4",
+    "Pranzo": "",
+    "SpuntinoPM": "",
+    "Cena": "c4"
+  },
+  "Mercoledì": {
+    "SpuntinoAM": "s1",
+    "Pranzo": "",
+    "SpuntinoPM": "",
+    "Cena": ""
+  },
+  "Giovedì": {
+    "SpuntinoAM": "",
+    "Pranzo": "p6",
+    "SpuntinoPM": "",
+    "Cena": "c11"
+  },
+  "Venerdì": {
+    "SpuntinoAM": "",
+    "Pranzo": "",
+    "SpuntinoPM": "",
+    "Cena": ""
+  },
+  "Sabato": {
+    "SpuntinoAM": "",
+    "Pranzo": "",
+    "SpuntinoPM": "",
+    "Cena": ""
+  },
+  "Domenica": {
+    "SpuntinoAM": "",
+    "Pranzo": "",
+    "SpuntinoPM": "",
+    "Cena": ""
+  }
+}
