@@ -33,12 +33,12 @@
     "SpuntinoAM": "",
     "Pranzo": "p1",
     "SpuntinoPM": "",
-    "Cena": "c11"
+    "Cena": "c4"
   },
   "Domenica": {
     "SpuntinoAM": "",
-    "Pranzo": "p1",
+    "Pranzo": "p4",
     "SpuntinoPM": "",
-    "Cena": "c4"
+    "Cena": "c13"
   }
 }
