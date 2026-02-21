@@ -9,13 +9,13 @@
     "SpuntinoAM": "",
     "Pranzo": "p2",
     "SpuntinoPM": "",
-    "Cena": "c9"
+    "Cena": "c10"
   },
   "Mercoledì": {
     "SpuntinoAM": "",
     "Pranzo": "p3",
     "SpuntinoPM": "",
-    "Cena": "c10"
+    "Cena": "c6"
   },
   "Giovedì": {
     "SpuntinoAM": "",
@@ -31,13 +31,13 @@
   },
   "Sabato": {
     "SpuntinoAM": "",
-    "Pranzo": "p8",
+    "Pranzo": "p4",
     "SpuntinoPM": "",
-    "Cena": "c3"
+    "Cena": "c4"
   },
   "Domenica": {
     "SpuntinoAM": "",
-    "Pranzo": "p4",
+    "Pranzo": "p1",
     "SpuntinoPM": "",
     "Cena": "c13"
   }
