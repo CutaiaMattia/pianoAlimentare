@@ -1,15 +1,15 @@
 {
   "Lunedì": {
     "SpuntinoAM": "",
-    "Pranzo": "p4",
+    "Pranzo": "p7",
     "SpuntinoPM": "",
-    "Cena": "c4"
+    "Cena": "c12"
   },
   "Martedì": {
     "SpuntinoAM": "",
-    "Pranzo": "p1",
+    "Pranzo": "p8",
     "SpuntinoPM": "",
-    "Cena": "c5"
+    "Cena": "c6"
   },
   "Mercoledì": {
     "SpuntinoAM": "",
@@ -37,7 +37,7 @@
   },
   "Domenica": {
     "SpuntinoAM": "",
-    "Pranzo": "p3",
+    "Pranzo": "",
     "SpuntinoPM": "",
     "Cena": "c13"
   }
