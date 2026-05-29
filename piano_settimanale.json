@@ -19,7 +19,7 @@
   },
   "Giovedì": {
     "SpuntinoAM": "",
-    "Pranzo": "p1",
+    "Pranzo": "p4",
     "SpuntinoPM": "",
     "Cena": ""
   },
@@ -27,18 +27,18 @@
     "SpuntinoAM": "",
     "Pranzo": "p8",
     "SpuntinoPM": "",
-    "Cena": "c6"
+    "Cena": "c3"
   },
   "Sabato": {
     "SpuntinoAM": "",
-    "Pranzo": "",
+    "Pranzo": "p5",
     "SpuntinoPM": "",
-    "Cena": ""
+    "Cena": "c4"
   },
   "Domenica": {
     "SpuntinoAM": "",
-    "Pranzo": "",
+    "Pranzo": "p3",
     "SpuntinoPM": "",
-    "Cena": ""
+    "Cena": "c13"
   }
 }
