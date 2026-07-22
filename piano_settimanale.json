@@ -7,38 +7,38 @@
   },
   "Martedì": {
     "SpuntinoAM": "",
-    "Pranzo": "p3",
+    "Pranzo": "p7",
     "SpuntinoPM": "",
-    "Cena": "c2"
+    "Cena": "c5"
   },
   "Mercoledì": {
     "SpuntinoAM": "",
-    "Pranzo": "p1",
+    "Pranzo": "p4",
     "SpuntinoPM": "",
-    "Cena": "c5"
+    "Cena": "c10"
   },
   "Giovedì": {
     "SpuntinoAM": "",
     "Pranzo": "p4",
     "SpuntinoPM": "",
-    "Cena": "c9"
+    "Cena": "c6"
   },
   "Venerdì": {
     "SpuntinoAM": "",
     "Pranzo": "p8",
     "SpuntinoPM": "",
-    "Cena": "c11"
+    "Cena": "c9"
   },
   "Sabato": {
     "SpuntinoAM": "",
-    "Pranzo": "p5",
+    "Pranzo": "p1",
     "SpuntinoPM": "",
     "Cena": "c3"
   },
   "Domenica": {
     "SpuntinoAM": "",
-    "Pranzo": "",
+    "Pranzo": "p3",
     "SpuntinoPM": "",
-    "Cena": "c9"
+    "Cena": "c13"
   }
 }
